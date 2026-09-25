@@ -1,0 +1,1 @@
+This is a GitHub repository. I created this project to practice uploading files, cloning a repository, making commits, and pushing changes using Git.
