@@ -1,1 +1,4 @@
 This is a GitHub repository. I created this project to practice uploading files, cloning a repository, making commits, and pushing changes using Git.
+
+
+I have successfully cloned my GitHub repository and edited this file on my local computer.
